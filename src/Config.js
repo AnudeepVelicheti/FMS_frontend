@@ -1,0 +1,1 @@
+export const BASE_URL="http://api-loadbalancer-878512270.us-east-2.elb.amazonaws.com"
